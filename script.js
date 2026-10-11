@@ -387,7 +387,7 @@ class PageRenderer {
         
         document.getElementById('dash-leaves').textContent = pendingLeaves.length;
         
-        document.getElementById('dash-salary').textContent = `₹${dashboardData.salary.total.toLocaleString()}`;
+        document.getElementById('dash-salary').textContent = `₹${dashboardData.salary.total.toLocaleString('en-IN')}`;
     
         document.getElementById('dash-bars').innerHTML = dashboardData.attendance.weekly.map((val, i) => `
             <div class="bar-item">
