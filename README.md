@@ -100,35 +100,9 @@ externally hosted Font Awesome icons and Google Font.
 The supplied records are illustrative demo data, not live employee
 information.
 
-## ⚠️ Current Limitations
 
--   There is no backend, authentication system, or database integration.
--   Sample records are defined in `script.js`.
--   Most record changes are not persisted after a page reload.
--   The attendance date control currently displays a filtering
-    notification; it should not be treated as a fully implemented
-    date-based query.
--   The dashboard and management screens are intended as a front-end
-    project/demo, not as a production HR system.
-
-## 🔮 Possible Future Improvements
-
--   Connect the interface to a backend and database.
--   Add secure login, roles, and access permissions.
--   Persist employee, attendance, leave, and settings data.
--   Implement complete date-wise attendance filtering and reporting.
--   Add form validation, export options, and automated tests.
-
-## 👨‍💻 Author
-
-**Abhay Dwivedi**
 
 ------------------------------------------------------------------------
 
-```{=html}
-<p align="center">
-```
 Made with ❤️ by Abhay Dwivedi
-```{=html}
-</p>
-```
+
