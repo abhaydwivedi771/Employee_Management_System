@@ -13,6 +13,14 @@ responsive layouts, DOM manipulation, event handling, dynamic table
 rendering, modal forms, status indicators, browser-based state, and
 dashboard KPI calculations.
 
+## 📌 Screenshots
+<img width="1351" height="1049" alt="SS1" src="https://github.com/user-attachments/assets/2b7ef26b-bd0a-402c-9f08-b157d6d3d59b" />
+<img width="1351" height="1271" alt="SS2" src="https://github.com/user-attachments/assets/6e1036cc-c6f7-4aa6-b49a-66867f3a0a8e" />
+<img width="1351" height="984" alt="SS3" src="https://github.com/user-attachments/assets/acb6171e-e51a-4737-85e2-e38297881f2c" />
+<img width="1351" height="659" alt="SS4" src="https://github.com/user-attachments/assets/69764c02-d7f4-40d0-8bcc-114c76f0e391" />
+<img width="1351" height="679" alt="SS5" src="https://github.com/user-attachments/assets/c6595890-f22f-49f3-91c9-c751e3dfec49" />
+
+
 ## ✨ Features
 
 -   **Dashboard**
