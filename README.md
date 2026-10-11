@@ -112,5 +112,9 @@ information.
 
 ------------------------------------------------------------------------
 
-Made with ❤️ by Abhay Dwivedi
+<div align="center">
+
+### Made with ❤️ by Abhay Dwivedi
+
+</div>
 
